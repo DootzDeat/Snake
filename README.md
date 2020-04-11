@@ -1,2 +1,2 @@
-# Snake_DauBuoiReRach
+# Snake
 Đó là trò snake!
